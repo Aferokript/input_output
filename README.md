@@ -30,7 +30,8 @@ def get_courses_list(courses_url):
         return courses_list
     else:
         print("can't load list of courses")
-        exit()```
+        exit()
+```
 Теперь примерим на себя роль провидца и подумаем какой функционал потребуется 
 через месяц:
 
